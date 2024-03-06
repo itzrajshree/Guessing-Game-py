@@ -13,7 +13,7 @@ Make sure you have Python installed on your system. You can download Python from
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/itzrajshree/number-guessing-game.git
    ```
 
 2. Navigate to the project directory:
